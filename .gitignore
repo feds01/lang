@@ -6,10 +6,13 @@
 /profiles
 
 # stupid vscode config files
-.vscode/
 
 # stupid JetBrains config files
 .idea/
 
 # Example files that shouldn't be kept in sources
 examples/ignored/
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
+branch_structure.json
